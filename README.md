@@ -20,3 +20,6 @@ and "balance" downsampling on classes with large sizes.
 
 ### result-plots.ipynb
 This file creates visualizations of the results from the pipeline notebooks to be displayed within the report.
+
+### Additional Material
+The dataste with all the preprocessed audio to spectrograms containing only spectrogram images was turned into a public dataset in [Kaggle](https://www.kaggle.com/datasets/rafaeltinajeroaga/bird-call-spectrogram-10secs/data).
